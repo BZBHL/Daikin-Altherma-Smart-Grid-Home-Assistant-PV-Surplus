@@ -118,9 +118,9 @@ Schematisch:
 
 Home Assistant:
 
-
+'''yaml
 switch.zolder_altherma_boiler_switch_o1
-
+'''
 
 = **SG1**
 
