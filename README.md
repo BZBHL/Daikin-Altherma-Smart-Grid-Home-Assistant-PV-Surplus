@@ -77,6 +77,12 @@ De installatie beschikt over een geïntegreerd DHW-reservoir van ongeveer 230 li
   <img src="04_SmartGrid_ShellyPro2.png" width="900">
 </p>
 
+## MMI screen once all is setup and Smart Grid is active
+
+<p align="center">
+  <img src="05_SmartGrid_MMI.png" width="900">
+</p>
+
 
 De Daikin Smart Grid-functionaliteit gebruikt twee contacten:
 
