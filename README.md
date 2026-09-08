@@ -20,7 +20,7 @@ Korte PV-fluctuaties worden genegeerd door een wachttijd van 10 minuten. Handmat
 ## Dashboard
 
 <p align="center">
-  <img src="images/01_SmartGrid_DashBoard-1.png" width="900">
+  <img src="01_SmartGrid_DashBoard-1.png" width="900">
 </p>
 
 
