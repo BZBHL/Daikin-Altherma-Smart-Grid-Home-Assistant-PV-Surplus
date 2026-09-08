@@ -160,7 +160,7 @@ Ga naar de installateursinstellingen van de Daikin MMI.
 | `[9.8.4] Benefit kWh power supply` | `4` |
 | `[9.8.5] Smart Grid operation mode` | `25` |
 | `[9.8.6] Allow electrical heaters` | `No` |
-| `[9.8.7] Enable room buffering` | `No` | Optie = Yes
+| `[9.8.7] Enable room buffering` | `No` |
 | `[9.8.8] Limit setting kW` | `3` |
 
 ## DHW
@@ -655,11 +655,6 @@ Set appropriate mode
 | Maximum DHW | `60 °C` |
 | Powerful DHW | `OFF` |
 | Smart Grid | `3 – Smart Grid` |
-| `[9.8.4]` | `4` |
-| `[9.8.5]` | `25` |
-| `[9.8.6]` | `No` |
-| `[9.8.7]` | `No` |
-| `[9.8.8]` | `3` |
 
 ---
 
