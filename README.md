@@ -24,10 +24,6 @@ Korte PV-fluctuaties worden genegeerd door een wachttijd van 10 minuten. Handmat
 </p>
 
 
-
-
-
-
 ## 📁 Repository structure
 
 ```text
@@ -76,6 +72,13 @@ De installatie beschikt over een geïntegreerd DHW-reservoir van ongeveer 230 li
   <img src="03_SmartGrid_XM5block-2.png" width="900">
 </p>
 
+## Smart Grid – Shelly Pro 2
+
+<p align="center">
+  <img src="04_SmartGrid_ShellyPro2.png" width="900">
+</p>
+
+
 De Daikin Smart Grid-functionaliteit gebruikt twee contacten:
 
 - **SG1 / S10S**
@@ -90,7 +93,7 @@ Voor deze installatie:
 
 Schematisch:
 
-```text
+
                  Daikin Altherma
               ┌──────────────────┐
               │                  │
@@ -111,13 +114,13 @@ Schematisch:
                       │
                       ▼
                 Home Assistant
-```
+
 
 Home Assistant:
 
-```yaml
+
 switch.zolder_altherma_boiler_switch_o1
-```
+
 
 = **SG1**
 
