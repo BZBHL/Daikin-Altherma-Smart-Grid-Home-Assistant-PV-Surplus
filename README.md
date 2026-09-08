@@ -117,17 +117,15 @@ Schematisch:
 
 Home Assistant:
 
+= **SG1**
 ```yaml
 switch.zolder_altherma_boiler_switch_o1
 ```
 
-= **SG1**
-
+= **SG2**
 ```yaml
 switch.zolder_altherma_boiler_switch_o2
 ```
-
-= **SG2**
 
 > Controleer de klembezetting altijd met het aansluitschema van de gebruikte Daikin-unit. De klemnummers kunnen per model verschillen.
 
