@@ -17,13 +17,6 @@ Korte PV-fluctuaties worden genegeerd door een wachttijd van 10 minuten. Handmat
 
 ---
 
-## Dashboard
-
-<p align="center">
-  <img src="01_SmartGrid_DashBoard-1.png" width="900">
-</p>
-
-
 ## 📁 Repository structure
 
 ```text
@@ -59,6 +52,12 @@ EHVH08S23EJ6V
 De installatie beschikt over een geïntegreerd DHW-reservoir van ongeveer 230 liter.
 
 ---
+## Dashboard
+
+<p align="center">
+  <img src="01_SmartGrid_DashBoard-1.png" width="900">
+</p>
+
 
 # 2. Smart Grid wiring
 
