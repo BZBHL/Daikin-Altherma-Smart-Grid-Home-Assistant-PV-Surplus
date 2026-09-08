@@ -66,6 +66,16 @@ De installatie beschikt over een geïntegreerd DHW-reservoir van ongeveer 230 li
 
 # 2. Smart Grid wiring
 
+## Smart Grid aansluiting
+
+<p align="center">
+  <img src="02_SmartGrid_XM5block-1.png" width="900">
+</p>
+
+<p align="center">
+  <img src="03_SmartGrid_XM5block-2.png" width="900">
+</p>
+
 De Daikin Smart Grid-functionaliteit gebruikt twee contacten:
 
 - **SG1 / S10S**
